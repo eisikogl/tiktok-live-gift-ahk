@@ -1,2 +1,2 @@
 # tiktok-live-gift-ahk
-controll ahk with tiktok live gift gifts or interactions
+control ahk Valorant with tiktok live gift gifts or interactions
